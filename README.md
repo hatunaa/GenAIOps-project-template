@@ -30,6 +30,7 @@ To deliver the solution effectively, a set of Azure resources is necessary. The 
 
 > **Note:** The **Premium V3 SKU** is required for the Azure App Service Plan to ensure the necessary performance and scalability for the application.
 
+tuandv 
 
 The following deployments will be created in the Azure OpenAI Service:
 
