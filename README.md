@@ -4,7 +4,7 @@ This repository has been initialized with the RAG with Azure AI Studio and Promp
 
 ## Architecture Overview
 
-tuandv
+tuandv1
 
 The following diagram provides an overview of the solution's architecture:
 
