@@ -8,7 +8,7 @@ on:
       
 jobs:
   setup-env-job:
-    if: ${{ github.repository != 'Azure/GenAIOps-project-template' }} && 
+    if: ${{ github.repository != 'hatunaa/GenAIOps-project-template' }} && 
         github.event.pull_request.merged == true && 
         startsWith(github.event.pull_request.head.ref, 'release/')
     runs-on: ubuntu-latest
